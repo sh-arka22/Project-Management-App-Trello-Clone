@@ -1,7 +1,4 @@
-# Ticket Management System
-
-This Ticket Management System allows users to raise tickets and engineers to solve them when available. It is built using Service Oriented Architecture (SOA), leveraging various REST APIs for seamless communication between different components of the system.
-
+# Project Management System
 ## Features
 
 1. **User Management**: 
